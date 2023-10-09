@@ -1,0 +1,30 @@
+.container {
+  margin: auto;
+  text-align: center;
+  background-color: rgb(190, 243, 164);
+  padding:4% ;
+}
+
+h1{
+
+  font-size: 23px;
+}
+
+input{
+
+align-items: center;
+width: 35%;
+height: 45px;
+background-color:  #f66d0b;
+border-radius: 10px;
+border-color: rgb(16, 16, 17);
+
+
+}
+
+input:hover{
+
+background-color: #fa09ce;
+
+
+}
